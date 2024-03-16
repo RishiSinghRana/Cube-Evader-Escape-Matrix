@@ -8,3 +8,13 @@ Cube Evader's intuitive controls using the A and D keys for left and right movem
 From designing the start menu to crafting the credits, every aspect of Cube Evader was a work of love. I owe a huge shoutout to the amazing tutorials on YouTube that guided me through the development process.
 
 Ready to dive into the Matrix? Play Cube Evader now and see if you can escape its labyrinthine challenges!
+
+# Steps for Installation:
+
+1. Download Winrar from: https://www.win-rar.com/download.html?&L=0
+
+2. Download the RAR file from here and Extract it.
+
+3. Double Click on CUBE EVADER ESCAPE MATRIX.exe
+
+4. Voila! Your game should be running. Enjoy!!
